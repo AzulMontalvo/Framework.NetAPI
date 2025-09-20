@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monta\\Workspaces\\ApiFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|c:\\users\\monta\\workspaces\\apifront\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|solutionrelative:controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|c:\\users\\monta\\workspaces\\apifront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|c:\\users\\monta\\workspaces\\apifront\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|c:\\users\\monta\\workspaces\\apifront\\models\\adventureworkslt2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74DC93F-6FE0-44BE-8DD2-8A628448AABF}|ApiFront.csproj|solutionrelative:models\\adventureworkslt2022context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\monta\\Workspaces\\ApiFront\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "C:\\Users\\monta\\Workspaces\\ApiFront\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:36:16.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monta\\Workspaces\\ApiFront\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\monta\\Workspaces\\ApiFront\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:23:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\monta\\Workspaces\\ApiFront\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\monta\\Workspaces\\ApiFront\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T03:21:21.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdventureWorksLt2022Context.cs",
+              "DocumentMoniker": "C:\\Users\\monta\\Workspaces\\ApiFront\\Models\\AdventureWorksLt2022Context.cs",
+              "RelativeDocumentMoniker": "Models\\AdventureWorksLt2022Context.cs",
+              "ToolTip": "C:\\Users\\monta\\Workspaces\\ApiFront\\Models\\AdventureWorksLt2022Context.cs",
+              "RelativeToolTip": "Models\\AdventureWorksLt2022Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:17:55.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
